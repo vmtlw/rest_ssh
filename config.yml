@@ -1,0 +1,10 @@
+actions:
+  reload:
+    - nginx
+  certificate:
+    domain.ru:
+      privkey: '/etc/nginx/ssl/domain.ru/privkey.pem'
+      cert: '/etc/nginx/ssl/domain.ru/fullchain.pem'
+    domain2.ru:
+      privkey: '/etc/nginx/ssl/domain2.ru/privkey.pem'
+      cert: '/etc/nginx/ssl/domain2.ru/fullchain.pem'

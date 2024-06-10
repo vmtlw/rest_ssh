@@ -1,0 +1,10 @@
+cffi
+Click
+cryptography
+pexpect
+ptyprocess
+pycparser
+pyOpenSSL
+PyYAML
+six
+asn1crypto

@@ -1,0 +1,1 @@
+command="/root/rest_ssh/rest_ssh.py",no-agent-forwarding,no-port-forwarding,no-pty,no-user-rc,no-X11-forwarding ssh-ed25519 AAAAC3NzadfdfdfdfdfdfdfdfdfdfdfdfdfdfdfUSmc2z43JR64QQ9SkIr letsencrypt@server
